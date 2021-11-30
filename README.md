@@ -47,7 +47,7 @@ Table of Contents:
 - Winny Chen
 - Angie Hentri
 - Natacha Bartu [GitHub](https://github.com/NatachaBartu)
-- Thang Za Thang
+- Thang Za Thang [Github](httpshttps://github.com/thangzathang)
 
 ---
 
@@ -414,4 +414,4 @@ https://trello.com/b/lODYCsYA
 
 ---
 
-<small>© 2021-2022 –– by the {  W .  A ☁️  N 🐶  T .  } team </small>
+<small>© 2021-2022 –– by the {  W .  A ☁️  N 🐶  T 🐸 } team </small>
