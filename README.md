@@ -17,7 +17,7 @@ Table of Contents:
       - [4️⃣ General, dog owners](#4️⃣-general-dog-owners)
     - [Features & Functionalities](#features--functionalities)
       - [Main/Core (MVP) Features](#maincore-mvp-features)
-      - [Upcoming Features](#upcoming-features)
+      - [🍬 Upcoming Features](#-upcoming-features)
     - [Sitemap](#sitemap)
     - [Dataflow Diagram](#dataflow-diagram)
     - [Application Architecture Diagram](#application-architecture-diagram)
@@ -211,46 +211,57 @@ Based on the user experience research, we have determined the following main and
 
 #### Main/Core (MVP) Features
 
+*<u>Note:</u> some features outlined below are* `extra` *or* `good-to-have-but-not-mvp` *in the initial stage. They are indicated with `🍬` next to them.*
+
 There are two main user groups, registered users and general (non-registered) users.
 
 <u>**General (non-registered users)**</u>
 
 - Can only view the homepage, about/info page, and individual blog posts
-
 - Can register or sign-up for an account
 
 **<u>Registered users</u>**
 
 - Can login, logout
+
 - Own posts:
   - Create, Read, Update, Delete their own posts
     - Can only include a link of video to be embedded in the post
     - Can only upload 1 before photo and 1 after photo
     - Can write many instruction steps, but will hint/advise user to write up to 7 steps maximum to prevent long posts
-- Other people's posts:
+    - 🍬 Can safe draft before publishing the post
+    - 🍬 Can preview the draft before publishing the post
+
+- Other users' posts:
   - Can comment
   - Can like or unlike
-  - Can save or bookmark
+  - 🍬 Can save or bookmark post
+
 - Profile page:
-  - Can manage their posts
+  - Can manage their posts (from a list of titles)
   - Can upload a profile photo and change / delete it
   - Can include their location
   - Can include their website or social media link
   - Can write a brief description or bio (for other users to read and contact for connection)
-  - Can see and access saved or bookmark posts
-- Can view other user profile page _(accessible through clicking a user's name through posts and comments)_:
+  - 🍬 Can access saved or bookmark other users' posts
+
+- Can view other user's profile page _(accessible through clicking the username through posts and comments)_:
   - See the user's location
   - See the user's posts list
   - Contact the user through the contact form
+    - Contact form will be submitted directly to the user's email address
+
 - **Professional Groomers:**
   - Can obtain 'professional badge' beside their name which is visible to everyone
 
-#### Upcoming Features
+#### 🍬 Upcoming Features
 
 **<u>Registered users</u>**
 
 - Google map geo-location feature
-- Follow or Add friends features between registered users
+- Able to upload more photos in their posts
+- Gallery of photos
+- Follow or add friends features between registered users
 
 <u>**Admin features**</u>
 
@@ -361,7 +372,7 @@ For teamwork's clarity we think that some high-fidelity wireframes are necessary
 
 We also created a basic style guide to help maintain design consistency on the overal user interface.
 
-- As part of the UI design, we chose purple and light grey as two primary colours, supported with accent pastel yellow, pink, and brighter purple.
+- As part of the UI design, we chose purple and light grey as the two primary colours, supported with pastel yellow, pink, and brighter purple as the accent colours.
 - Purple is often associated with royalty to signify the quality of the contents of the blog. Even though it is a DIY grooming blog, it doesn't mean that the quality of the content is poor. We want to highlight that some contents are from professional groomers too.
 - Purple also represents creativity, peace and independence. The colour combinations are intended to create calm stability and ensure reading the blog won't hurt the eyes, as some may prefer dark-mode colour schemes.
 
