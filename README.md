@@ -5,7 +5,7 @@
 Table of Contents:
 
 - [💦 🐩 ✨ DIY Grooming Blog – Documentation](#---diy-grooming-blog--documentation)
-    - [Contributors](#contributors)
+  - [Contributors](#contributors)
   - [🗂 Project Documentation](#-project-documentation)
     - [The Problem](#the-problem)
     - [The Blog Purpose](#the-blog-purpose)
@@ -44,10 +44,10 @@ Table of Contents:
 
 **The { W.A.N.T } Team:**
 
-- Winny Chen  →  [GitHub](https://github.com/Winny1212)
-- Angie Hentri  →  [GitHub](https://github.com/a-sh-dev)
-- Natacha Bartu  →  [GitHub](https://github.com/NatachaBartu)
-- Thang Za Thang  →  [GitHub](https://github.com/thangzathang)
+- Winny Chen → [GitHub](https://github.com/Winny1212)
+- Angie Hentri → [GitHub](https://github.com/a-sh-dev)
+- Natacha Bartu → [GitHub](https://github.com/NatachaBartu)
+- Thang Za Thang → [GitHub](https://github.com/thangzathang)
 
 ---
 
@@ -362,7 +362,7 @@ We also created a basic style guide to help maintain design consistency on the o
 
 - As part of the UI design, we chose purple and light grey as two primary colours, supported with accent pastel yellow, pink, and brighter purple.
 - Purple is often associated with royalty to signify the quality of the contents of the blog. Even though it is a DIY grooming blog, it doesn't mean that the quality of the content is poor. We want to highlight that some contents are from professional groomers too.
-- Purple also represents creativity, peace and independence. The colour combinations are intended to create calm stability and ensure reading the blog won't hurt the eyes, as some may prefer dark-mode colour schemes. 
+- Purple also represents creativity, peace and independence. The colour combinations are intended to create calm stability and ensure reading the blog won't hurt the eyes, as some may prefer dark-mode colour schemes.
 
 ![style_guide](./docs/wireframes_ui/styles_guide_01.png)
 
@@ -416,4 +416,4 @@ https://trello.com/b/lODYCsYA
 
 ---
 
-<small>© 2021-2022 –– by the {  W 💄  A ☁️  N 🐶  T 🐸 } team </small>
+<small>© 2021-2022 –– by the {  W 💄  A ☁️  N 👩🏻‍💻  T 🐸 } team </small>
