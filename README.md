@@ -44,7 +44,7 @@ Table of Contents:
 
 **The {  W.A.N.T  } Team:**
 
-- Winny Chen
+- Winny Chen [GitHub](https://github.com/winny1212)
 - Angie Hentri
 - Natacha Bartu
 - Thang Za Thang
