@@ -47,7 +47,7 @@ Table of Contents:
 - Winny Chen
 - Angie Hentri
 - Natacha Bartu [GitHub](https://github.com/NatachaBartu)
-- Thang Za Thang [Github](httpshttps://github.com/thangzathang)
+- Thang Za Thang [Github](https://github.com/thangzathang)
 
 ---
 
