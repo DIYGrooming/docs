@@ -44,7 +44,7 @@ Table of Contents:
 
 **The { W.A.N.T } Team:**
 
-- Winny Chen
+- Winny Chen [GitHub](https://github.com/Winny1212)
 - Angie Hentri
 - Natacha Bartu [GitHub](https://github.com/NatachaBartu)
 - Thang Za Thang [Github](https://github.com/thangzathang)
@@ -414,4 +414,4 @@ https://trello.com/b/lODYCsYA
 
 ---
 
-<small>© 2021-2022 –– by the {  W .  A ☁️  N 🐶  T 🐸 } team </small>
+<small>© 2021-2022 –– by the {  W 💄  A ☁️  N 🐶  T 🐸 } team </small>
