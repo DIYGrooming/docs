@@ -5,7 +5,7 @@
 Table of Contents:
 
 - [💦 🐩 ✨ DIY Grooming Blog – Documentation](#---diy-grooming-blog--documentation)
-  - [Contributors](#contributors)
+    - [Contributors](#contributors)
   - [🗂 Project Documentation](#-project-documentation)
     - [The Problem](#the-problem)
     - [The Blog Purpose](#the-blog-purpose)
@@ -35,6 +35,7 @@ Table of Contents:
         - [Home (mobile and desktop)](#home-mobile-and-desktop)
         - [Individual Post (mobile and desktop)](#individual-post-mobile-and-desktop)
         - [Write Post (mobile and desktop)](#write-post-mobile-and-desktop)
+        - [UI Style Guide](#ui-style-guide)
     - [Tech Stack](#tech-stack)
     - [Project Management Tools & Utilities](#project-management-tools--utilities)
 
@@ -389,7 +390,7 @@ We also created a basic style guide to help maintain design consistency on the o
   - Storage – AWS3 Bucket for user image uploads or Firebase Storage
 - Deployment & Hosting
   - Netlify for front-end
-  - Heroku for back-end
+  - Heroku for back-end 
 
 ### Project Management Tools & Utilities
 
