@@ -468,4 +468,4 @@ https://trello.com/b/lODYCsYA
 
 ---
 
-<small>© 2021-2022 –– by the {  W .  A ☁️  N  .  T .  } team </small>
+<small>© 2021-2022 –– by the {  W 💄.  A ☁️  N  .  T .  } team </small>
