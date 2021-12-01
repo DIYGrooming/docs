@@ -5,16 +5,16 @@
 Table of Contents:
 
 - [💦 🐩 ✨ DIY Grooming Blog – Documentation](#---diy-grooming-blog--documentation)
-  - [Contributors](#contributors)
+    - [Contributors](#contributors)
   - [🗂 Project Documentation](#-project-documentation)
     - [The Problem](#the-problem)
     - [The Blog Purpose](#the-blog-purpose)
     - [Target Audience](#target-audience)
     - [User Personas & User Stories](#user-personas--user-stories)
-      - [1️⃣ Dog owners sharing their grooming skills](#1️⃣--dog-owners-sharing-their-grooming-skills)
-      - [2️⃣ Dog owners looking for tips/tricks on DIY dog grooming](#2️⃣--dog-owners-looking-for-tipstricks-on-diy-dog-grooming)
-      - [3️⃣ Professional dog groomers promoting their services](#3️⃣--professional-dog-groomers-promoting-their-services)
-      - [4️⃣ General, dog owners](#4️⃣--general-dog-owners)
+      - [1️⃣ Dog owners sharing their grooming skills](#1️⃣-dog-owners-sharing-their-grooming-skills)
+      - [2️⃣ Dog owners looking for tips/tricks on DIY dog grooming](#2️⃣-dog-owners-looking-for-tipstricks-on-diy-dog-grooming)
+      - [3️⃣ Professional dog groomers promoting their services](#3️⃣-professional-dog-groomers-promoting-their-services)
+      - [4️⃣ General, dog owners](#4️⃣-general-dog-owners)
     - [Features & Functionalities](#features--functionalities)
       - [Main/Core (MVP) Features](#maincore-mvp-features)
       - [Upcoming Features](#upcoming-features)
@@ -44,10 +44,10 @@ Table of Contents:
 
 **The { W.A.N.T } Team:**
 
-- Winny Chen [GitHub](https://github.com/Winny1212)
-- Angie Hentri
-- Natacha Bartu [GitHub](https://github.com/NatachaBartu)
-- Thang Za Thang [Github](https://github.com/thangzathang)
+- Winny Chen  →  [GitHub](https://github.com/Winny1212)
+- Angie Hentri  →  [GitHub](https://github.com/a-sh-dev)
+- Natacha Bartu  →  [GitHub](https://github.com/NatachaBartu)
+- Thang Za Thang  →  [GitHub](https://github.com/thangzathang)
 
 ---
 
@@ -103,11 +103,8 @@ In the initial market research, we selected some of our user personas and their 
 **As a dog owner,**
 
 - I want to share how I normally groom my pet to my friends.
-
 - I enjoy grooming my dog at home and I want to share how to do it step by step so my friends and other people can do their own DIY grooming for their beloved pets.
-
 - I want to be log in and log out, and able to access my account and see the posts I made
-
 - I want to know other people who have the same dog breed as I am
 
 ![personas](./docs/personas/share_01.png)
@@ -187,11 +184,8 @@ In the initial market research, we selected some of our user personas and their 
 **As a dog lover in Notting Hill,**
 
 - I want to see cute photos of dogs in the community
-
 - I want to see the the before and after grooming photos
-
 - I want to read people’s experience with their dogs as I always wanted a dog
-
 - I want to comment on people’s posts and contact them to ask questions
 
 **As a dog lover and a potential pet owner,**
@@ -265,7 +259,7 @@ There are two main user groups, registered users and general (non-registered) us
 **<u>Others</u>**
 
 - Professional Groomers service listing
-- Ways to customise the site color themes (e.g., dark mode)
+- Ways to customise or choose the blog available color themes (e.g., dark mode theme)
 
 ### Sitemap
 
@@ -362,7 +356,13 @@ For teamwork's clarity we think that some high-fidelity wireframes are necessary
 
 ![](./docs/wireframes_ui/02_high_fidelity/cropped/3_write.png)
 
+##### UI Style Guide
+
 We also created a basic style guide to help maintain design consistency on the overal user interface.
+
+- As part of the UI design, we chose purple and light grey as two primary colours, supported with accent pastel yellow, pink, and brighter purple.
+- Purple is often associated with royalty to signify the quality of the contents of the blog. Even though it is a DIY grooming blog, it doesn't mean that the quality of the content is poor. We want to highlight that some contents are from professional groomers too.
+- Purple also represents creativity, peace and independence. The colour combinations are intended to create calm stability and ensure reading the blog won't hurt the eyes, as some may prefer dark-mode colour schemes. 
 
 ![style_guide](./docs/wireframes_ui/styles_guide_01.png)
 
@@ -405,6 +405,8 @@ We also created a basic style guide to help maintain design consistency on the o
 ![trello screenshots](./docs/trello/ss_trello_02.png)
 
 ![trello screenshots](./docs/trello/ss_trello_03.png)
+
+![trello screenshots](./docs/trello/ss_trello_04.png)
 
 Trello board link:
 
