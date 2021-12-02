@@ -1,10 +1,10 @@
-# 💦 🐩 ✨ DIY Grooming Blog – Documentation
+# DIY Grooming Blog – Documentation
 
 **T3A2-A MERN Full-stack App**
 
 Table of Contents:
 
-- [💦 🐩 ✨ DIY Grooming Blog – Documentation](#---diy-grooming-blog--documentation)
+- [DIY Grooming Blog – Documentation](#diy-grooming-blog--documentation)
     - [Contributors](#contributors)
   - [🗂 Project Documentation](#-project-documentation)
     - [The Problem](#the-problem)
@@ -308,11 +308,8 @@ There are three entities: the client side (front-end), server side (back-end) an
 ![client side](./docs/diagrams/aad_a.png)
 
 - The front end is in React JS with Material UI library.
-
 - We will deploy on Netlify.
-
 - State management will be handled by React Redux
-
 - Axios will be used to communicate to the backend.
 
 #### Server Side (back-end) & Database
